@@ -6,7 +6,7 @@ I have set path on making a few discord bots, this is a very interesting thing t
 
 This is my first time using `discord.py` so im going to start with small basics bots and find my way up to the more smarter and complex ones. 
 
-<img src="bot.png" alt="image"/>
+<img src="bot.png" alt="image" width="50"/>
 
 ### User friendly 
 
